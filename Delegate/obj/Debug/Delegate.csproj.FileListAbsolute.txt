@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Delegate\bin\Debug\Delegate.exe
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Delegate\bin\Debug\Delegate.pdb
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Delegate\obj\Debug\Delegate.exe
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Delegate\obj\Debug\Delegate.pdb
