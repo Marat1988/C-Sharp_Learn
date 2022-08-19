@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Events\bin\Debug\Events.exe.config
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Events\bin\Debug\Events.exe
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Events\bin\Debug\Events.pdb
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Events\obj\Debug\Events.exe
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\Events\obj\Debug\Events.pdb
