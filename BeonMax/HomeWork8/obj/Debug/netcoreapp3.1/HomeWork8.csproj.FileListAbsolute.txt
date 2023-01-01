@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.exe
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.deps.json
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.runtimeconfig.dev.json
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\bin\Debug\netcoreapp3.1\HomeWork8.pdb
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.pdb
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork8\obj\Debug\netcoreapp3.1\HomeWork8.genruntimeconfig.cache
