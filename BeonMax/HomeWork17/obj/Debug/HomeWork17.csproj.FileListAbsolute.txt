@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork17\bin\Debug\HomeWork17.exe.config
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork17\bin\Debug\HomeWork17.exe
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork17\bin\Debug\HomeWork17.pdb
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork17\obj\Debug\HomeWork17.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork17\obj\Debug\HomeWork17.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork17\obj\Debug\HomeWork17.exe
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\BeonMax\HomeWork17\obj\Debug\HomeWork17.pdb
