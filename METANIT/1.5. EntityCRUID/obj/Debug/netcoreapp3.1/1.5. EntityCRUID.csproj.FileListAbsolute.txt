@@ -1,0 +1,53 @@
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\1.5. EntityCRUID.exe
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\1.5. EntityCRUID.deps.json
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\1.5. EntityCRUID.runtimeconfig.json
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\1.5. EntityCRUID.runtimeconfig.dev.json
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\1.5. EntityCRUID.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\1.5. EntityCRUID.pdb
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\obj\Debug\netcoreapp3.1\1.5. EntityCRUID.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\obj\Debug\netcoreapp3.1\1.5. EntityCRUID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\obj\Debug\netcoreapp3.1\1.5. EntityCRUID.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\obj\Debug\netcoreapp3.1\1.5. EntityCRUID.AssemblyInfo.cs
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\obj\Debug\netcoreapp3.1\1.5. EntityCRUID.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\obj\Debug\netcoreapp3.1\1.5. EntityCRUID.csproj.CopyComplete
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\obj\Debug\netcoreapp3.1\1.5. EntityCRUID.dll
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\obj\Debug\netcoreapp3.1\1.5. EntityCRUID.pdb
+C:\Users\HP\Documents\GitHub\C-Sharp_Learn\METANIT\1.5. EntityCRUID\obj\Debug\netcoreapp3.1\1.5. EntityCRUID.genruntimeconfig.cache
