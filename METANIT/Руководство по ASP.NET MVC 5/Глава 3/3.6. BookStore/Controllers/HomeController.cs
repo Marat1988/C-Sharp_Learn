@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using BookStore.ViewModel;
 
 namespace BookStore.Controllers
 {
@@ -15,8 +16,18 @@ namespace BookStore.Controllers
 
         public ActionResult Index()
         {
+            var b1 = db.Books;
+            var books = (from b in db.Books
+                         select new BookViewModel
+                         {
+                             Id = b.Id,
+                             Name = b.Name,
+                             Author = b.Author,
+                             Price = b.Price + b.Id,
+                             Create  = new DateTime(2022,1,1)
+                         }).AsQueryable();
             //Получаем из БД все объекты Book
-            IEnumerable<Book> books = db.Books;
+            //IEnumerable<Book> books = db.Books;
             //Передаем все объекты в динамическое свойство Books в ViewBag
             ViewBag.Books = books;
             //возвращаем представление
